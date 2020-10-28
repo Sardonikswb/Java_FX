@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="jboss">
+    <ANNOTATIONS>
+      <root url="file://$MAVEN_REPOSITORY$/org/jboss" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/jboss" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$MAVEN_REPOSITORY$/org/jboss" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$MAVEN_REPOSITORY$/org/jboss" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/org/jboss" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jboss" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jboss" recursive="false" type="SOURCES" />
+  </library>
+</component>

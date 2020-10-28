@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="1.1.11">
+    <ANNOTATIONS>
+      <root url="file://$MAVEN_REPOSITORY$/org/jboss/arquillian/arquillian-bom/1.1.11.Final" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/jboss/arquillian/arquillian-bom/1.1.11.Final" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$MAVEN_REPOSITORY$/org/jboss/arquillian/arquillian-bom/1.1.11.Final" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/org/jboss/arquillian/arquillian-bom/1.1.11.Final" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jboss/arquillian/arquillian-bom/1.1.11.Final" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jboss/arquillian/arquillian-bom/1.1.11.Final" recursive="false" type="SOURCES" />
+  </library>
+</component>

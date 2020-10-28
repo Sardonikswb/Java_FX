@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="1.1.1">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final" recursive="false" type="SOURCES" />
+  </library>
+</component>
